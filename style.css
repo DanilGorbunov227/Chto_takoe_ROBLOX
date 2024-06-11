@@ -10,11 +10,14 @@ header img {
   width:70px;
   height:70px;
 }
-nav {
+a {
   text-decoration:none;
   border-radius: 10px;
   border:1px solid black;
   padding:5px;
+}
+main a {
+  color:Fuchsia;
 }
 h1 {
   font-size:50px;
@@ -33,4 +36,8 @@ main p {
 footer {
   background:PaleGreen;
   font-size:20px;
+}
+main img {
+  width:250px;
+  height:150px;
 }
