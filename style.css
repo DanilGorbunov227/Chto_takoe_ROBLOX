@@ -18,6 +18,8 @@ a {
 }
 main a {
   color:Fuchsia;
+  background:MediumSpringGreen;
+  border:2px solid Lime;
 }
 h1 {
   font-size:50px;
